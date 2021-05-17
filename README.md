@@ -4,7 +4,7 @@
 
 # QuizApp
 
-Código final do sétimo módulo do curso de Flutter e Dart (com a solução do desafion da aula 59).
+Código final do sétimo módulo do curso de Flutter e Dart (com a solução do desafio da aula 59).
 
 
 
